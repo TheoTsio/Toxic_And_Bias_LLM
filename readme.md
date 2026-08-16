@@ -45,7 +45,7 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
         Use for: An open drop-in alternative to proprietary models for deep multi-step analysis.
 
-    moonshotai/kimi-k3 (Moonshot AI)  moonshotai/kimi-k2 (Moonshot AI)  moonshotai/kimi-k2.7 (Moonshot AI)
+    moonshotai/kimi-k3 (Moonshot AI)  moonshotai/kimi-k2 (Moonshot AI)  moonshotai/kimi-k2.6 (Moonshot AI)
     
         Moonshot's flagship 2.8T MoE model. A key baseline for observing how non-Western frontier architectures process European and Greek political contexts without relying purely on Western pre-training corpora.
 

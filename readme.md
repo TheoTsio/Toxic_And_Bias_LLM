@@ -8,7 +8,7 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
         Use for: Benchmarking Western progressive corporate guardrails, complex linguistic nuances, and long reasoning chains.
 
-    openai/gpt-5.6-sol / openai/gpt-5.6-luna
+    openai/gpt-5.6-sol openai/gpt-5.6-sol-pro  openai/gpt-5.6-luna
 
         Strengths: Extremely fast, high intelligence scores, and advanced agentic capabilities.
 

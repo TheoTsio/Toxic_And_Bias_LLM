@@ -14,7 +14,7 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
         Use for: High-throughput JSON schema extraction, structured outputs, and general agent tools.
 
-    google/gemini-3.7-flash / google/gemini-pro-1.5
+    google/gemini-3.7-flash / google/gemini-2.5-pro
 
         Strengths: Massive 1M+ context window and strong multimodal/cross-document understanding.
 

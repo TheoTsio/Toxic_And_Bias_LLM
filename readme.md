@@ -50,3 +50,28 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
         Moonshot's flagship 2.8T MoE model. A key baseline for observing how non-Western frontier architectures process European and Greek political contexts without relying purely on Western pre-training corpora.
 
 
+3. Smaller scale models
+
+    Llama 3.1 8B Instruct
+
+        OpenRouter Slug: meta-llama/llama-3.1-8b-instruct
+
+        Why it fits: Meta significantly expanded multilingual training in Llama 3.1. The 8B model is fast, cheap, and surprisingly strong at Greek syntax. It has fewer safety alignments than Claude, making it far more likely to reveal genuine underlying training biases without safety-evasive maneuvers.
+
+    Qwen 2.5 7B Instruct
+
+        OpenRouter Slug: qwen/qwen-2.5-7b-instruct
+
+        Why it fits: Alibaba’s Qwen 2.5 family is arguably the strongest open-weights suite for non-English performance in the sub-10B parameter range. It handles Greek inflection and agreement markers extremely well, making it a key benchmark for comparison against Western LLMs.
+
+    Gemma 2 9B IT
+
+        OpenRouter Slug: google/gemma-2-9b-it
+
+        Why it fits: Google's Gemma 2 9B punch well above its weight class in reasoning and linguistic tasks. It features a different architecture and training mix, providing a great baseline for testing Google's alignment strategies on gender metrics.
+
+    Mistral 7B Instruct v0.3
+
+        OpenRouter Slug: mistralai/mistral-7b-instruct
+
+        Why it fits: As a European-developed base model, Mistral has historically higher exposure to European language corpora relative to its size. It provides a distinct comparison point against US/Chinese base models.

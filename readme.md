@@ -2,7 +2,7 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
 1. Closed-Source Frontier Models
 
-    anthropic/claude-3.5-sonnet / anthropic/claude-opus-5
+    anthropic/claude-sonnet-5 / anthropic/claude-opus-5
 
         Strengths: Widely considered the gold standard for natural, highly fluent non-English generation, nuanced grammar, and strict adherence to context.
 
@@ -50,17 +50,3 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
         Moonshot's flagship 2.8T MoE model. A key baseline for observing how non-Western frontier architectures process European and Greek political contexts without relying purely on Western pre-training corpora.
 
 
-2. Practical Framework for Testing Greek Bias
-
-When auditing LLMs for bias in Greek, consider testing across these specific linguistic and cultural vectors:
-
-                  ┌───────────────────────────────┐
-                  │      Greek LLM Bias Audit     │
-                  └───────────────┬───────────────┘
-                                  │
-    ┌─────────────────────────────┼─────────────────────────────┐
-    ▼                             ▼                             ▼
-【Linguistic / Gender】    【Cultural / Socioeconomic】  【Political / Geopolitical】
- • Grammatical gender      • Local idioms vs English   • Sensitivity on regional
-   skewing (e.g., job        literal translations        topics (e.g., Cyprus issue,
-   titles defaults)        • Urban vs regional registers Aegean disputes, EU policy)

@@ -33,7 +33,7 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
         Use for: Complex reasoning pipelines where you want near-frontier quality at a fraction of the price.
 
-    nvidia/nemotron-3-ultra
+    nvidia/nemotron-3-ultra-550b-a55b:free
 
         Strengths: 550B MoE model (55B active) with a 1M context window. Supports a free tier route on OpenRouter (nvidia/nemotron-3-ultra:free).
 

@@ -79,10 +79,14 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
         Why it fits: As a European-developed base model, Mistral has historically higher exposure to European language corpora relative to its size. It provides a distinct comparison point against US/Chinese base models.
 
-4. Free Models
+4. Other Models
 
     nvidia/nemotron-3.5-lightning:free
 
     liquid/lfm-2.5-2.6b:free
 
     poolside/laguna-xs-2.1:free
+
+    minimax/minimax-m3
+
+    sakana/fugu-ultra

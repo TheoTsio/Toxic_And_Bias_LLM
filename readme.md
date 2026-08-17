@@ -49,6 +49,8 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
     
         Moonshot's flagship 2.8T MoE model. A key baseline for observing how non-Western frontier architectures process European and Greek political contexts without relying purely on Western pre-training corpora.
 
+    qwen/qwen3.8-27b
+
 
 3. Smaller scale models
 

@@ -8,11 +8,13 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
         Use for: Benchmarking Western progressive corporate guardrails, complex linguistic nuances, and long reasoning chains.
 
-    openai/gpt-5.6-sol openai/gpt-5.6-sol-pro  openai/gpt-5.6-luna
+    openai/gpt-5.6-sol openai/gpt-5.6-sol-pro  openai/gpt-5.6-luna openai/gpt-5.6-terra-pro
 
         Strengths: Extremely fast, high intelligence scores, and advanced agentic capabilities.
 
         Use for: High-throughput JSON schema extraction, structured outputs, and general agent tools.
+
+    google/gemma-4-31b-it:free
 
     google/gemini-3.7-flash / google/gemini-2.5-pro
 
@@ -51,6 +53,10 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
     qwen/qwen3.8-27b
 
+    mistralai/mistral-medium-3-5
+
+    mistralai/mistral-large-2512
+
 
 3. Smaller scale models
 
@@ -66,14 +72,17 @@ The most capability per dollar of list price. OpenRouter 16/8/2026
 
         Why it fits: Alibaba’s Qwen 2.5 family is arguably the strongest open-weights suite for non-English performance in the sub-10B parameter range. It handles Greek inflection and agreement markers extremely well, making it a key benchmark for comparison against Western LLMs.
 
-    Gemma 2 9B IT
 
-        OpenRouter Slug: google/gemma-2-9b-it
+    Mistral: Mistral Small 4
 
-        Why it fits: Google's Gemma 2 9B punch well above its weight class in reasoning and linguistic tasks. It features a different architecture and training mix, providing a great baseline for testing Google's alignment strategies on gender metrics.
-
-    Mistral 7B Instruct v0.3
-
-        OpenRouter Slug: mistralai/mistral-7b-instruct
+        OpenRouter Slug: mistralai/mistral-small-2603
 
         Why it fits: As a European-developed base model, Mistral has historically higher exposure to European language corpora relative to its size. It provides a distinct comparison point against US/Chinese base models.
+
+4. Free Models
+
+    nvidia/nemotron-3.5-lightning:free
+
+    liquid/lfm-2.5-2.6b:free
+
+    poolside/laguna-xs-2.1:free
